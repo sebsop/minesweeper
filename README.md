@@ -23,7 +23,7 @@ This project was developed in **Java with Swing** during my **Erasmus semester**
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/dosqas/minesweeper.git
+   git clone https://github.com/sebsop/minesweeper.git
    ```
 2. Enter the project folder:
 
